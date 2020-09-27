@@ -4,7 +4,7 @@
   "main": "server.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha  --timeout 10000",
-    "start": "NODE_ENV=dev nodemon server",
+    "start": "NODE_ENV=dev node server",
     "dev": "NODE_ENV=dev nodemon server",
     "debug": "NODE_ENV=dev node --inspect server"
   },
