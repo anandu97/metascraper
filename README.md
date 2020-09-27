@@ -21,3 +21,5 @@ curl --location --request POST 'EC2Co-EcsEl-1PYOZM9GOTDRI-1051573587.us-east-2.e
 --data-raw '{
     "url":"https://www.palnarindia.com/en/home.php"
 }'
+
+# memory-cache is used for cache  
